@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleksandrMaks
 - 👀 I’m interested in hiking, travelling, football, music.
-- 🌱 I’m currently learning system analytics.
+- 🌱 I’m currently working in the field of system analytics, data analytics.
 - 🎓 I'm a student of MSAI at MIPT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: alexmax.34@gmail.com 
